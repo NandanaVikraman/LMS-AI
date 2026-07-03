@@ -52,3 +52,7 @@ Full pitch deck: [`docs/Hackathon_Pitch_Deck.pdf`](docs/Hackathon_Pitch_Deck.pdf
 ## What's Next
 
 Ideas the team identified for extending this beyond the hackathon: broadening AI/dev-tool literacy assumptions so it's useful beyond technical majors, and deeper Canvas integration for automatically scoping projects around real assignment performance.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
