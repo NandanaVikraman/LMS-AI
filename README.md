@@ -41,11 +41,13 @@ Built by **Team H2** for the Principled AI Spark Challenge hackathon:
 | Name | Role |
 |---|---|
 | David Ekechukwu | Project Lead & Visionary |
-| Michael Howell | Canvas/Database Backend Developer & Slides Creator |
+| [Michael Howell](https://github.com/Jediweirdo) | Canvas/Database Backend Developer & Slides Creator |
 | [Mohammed Tauseef Ahmed](https://github.com/taus-ahmed) | AI Engineer, Frontend Developer & Survey |
 | [Nandana Vikraman](https://github.com/NandanaVikraman) | Website Design Lead, Frontend Developer & Data Analyst |
 
 Full pitch deck: [`docs/Hackathon_Pitch_Deck.pdf`](docs/Hackathon_Pitch_Deck.pdf)
+
+> **Note:** Under hackathon time pressure, a few feature branches never got fully merged before submission. This snapshot reflects the team's `main` branch. Michael also built out a Canvas integration (Settings, ASU branding, config/preferences stores) on a separate branch — see [taus-ahmed/LMS-AI on Jediweirdo's fork, branch `Canvas-Integrated-Version`](https://github.com/Jediweirdo/LMS-AI/tree/Canvas-Integrated-Version) — and a Dexie (IndexedDB) data-layer refactor was built on `feature/integrate-mentor-dexie`, neither of which is included here.
 
 ## What's Next
 
